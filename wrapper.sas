@@ -16,6 +16,8 @@
     header added to file
   @change 15.11.2022 GP
     important change to code - all deleted
+  @change 16.11.2022 gp
+    GIT repository created and program added
   
 */
 /** @cond */
