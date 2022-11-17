@@ -76,7 +76,7 @@
   *;
   Proc Gchart data=&table;
     &byvar
-    Vbar &var / 
+    Hbar &var / 
       &sumvar
       &patternId
     ;
